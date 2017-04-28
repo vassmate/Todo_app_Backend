@@ -1,1 +1,1 @@
-web: java -jar todo_app-1.0.0-BUILD-SNAPSHOT.war
+web: java $JAVA_OPTS -cp target/classes:target/dependency/*
