@@ -1,0 +1,1 @@
+web: java -jar todo_app-1.0.0-BUILD-SNAPSHOT.war
