@@ -1,4 +1,4 @@
-# Todo_app_Backend
+# Todo_app Backend
 Repository for the Todo applications backend.
 
 # Description
